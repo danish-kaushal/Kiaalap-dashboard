@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kiaalap-dashboard/static/css/main.43dee6d0.chunk.css",
+    "main.js": "/Kiaalap-dashboard/static/js/main.9be0a7dd.chunk.js",
+    "main.js.map": "/Kiaalap-dashboard/static/js/main.9be0a7dd.chunk.js.map",
+    "runtime-main.js": "/Kiaalap-dashboard/static/js/runtime-main.762fe321.js",
+    "runtime-main.js.map": "/Kiaalap-dashboard/static/js/runtime-main.762fe321.js.map",
+    "static/css/2.fd606b34.chunk.css": "/Kiaalap-dashboard/static/css/2.fd606b34.chunk.css",
+    "static/js/2.4619976d.chunk.js": "/Kiaalap-dashboard/static/js/2.4619976d.chunk.js",
+    "static/js/2.4619976d.chunk.js.map": "/Kiaalap-dashboard/static/js/2.4619976d.chunk.js.map",
+    "index.html": "/Kiaalap-dashboard/index.html",
+    "static/css/2.fd606b34.chunk.css.map": "/Kiaalap-dashboard/static/css/2.fd606b34.chunk.css.map",
+    "static/css/main.43dee6d0.chunk.css.map": "/Kiaalap-dashboard/static/css/main.43dee6d0.chunk.css.map",
+    "static/js/2.4619976d.chunk.js.LICENSE.txt": "/Kiaalap-dashboard/static/js/2.4619976d.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/Kiaalap-dashboard/static/media/bootstrap-icons.dfd0ea12.woff2",
+    "static/media/bootstrap.min.css": "/Kiaalap-dashboard/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.762fe321.js",
+    "static/css/2.fd606b34.chunk.css",
+    "static/js/2.4619976d.chunk.js",
+    "static/css/main.43dee6d0.chunk.css",
+    "static/js/main.9be0a7dd.chunk.js"
+  ]
+}
